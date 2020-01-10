@@ -62,9 +62,9 @@ time.sleep(0.5)
 while True:
     name = input('Confirme o usuário digitando sua senha: ')
     time.sleep(0.1)
-    if name == '89895638g':
+    if name == '123456':
         time.sleep(0.5)
-        print('Bem vindo Guilherme, inicializando sistema...')
+        print('Bem vindo Usuário, inicializando sistema...')
         time.sleep(0.5)
         mainMenu()
         pass
